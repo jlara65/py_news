@@ -26,4 +26,4 @@ def single(id):
     post = db.query(Post).filter(Post.id == id).one()
 
     # render single post template
-    return render_template('single-post.html', post=post, loggedIn=session.get_db('loggedIn'))
+    return render_template('single-post.html', post=post, loggedIn=session.get('loggedIn'))
