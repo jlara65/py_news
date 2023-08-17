@@ -68,6 +68,6 @@ The screenshots of the overview of the application:-
 
 ## License
 
-This project is licensed under the [MIT](./LICENSE).
+This project is licensed under the [MIT](./LICENSE). 
 
 &copy; 2022 Joseph Lara
