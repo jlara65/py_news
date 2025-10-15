@@ -56,7 +56,7 @@ python-dateutil==2.8.2
 python-dotenv==1.0.0
 pytz==2023.3
 randomuser==1.6
-requests==2.26.0
+requests==2.32.4
 six==1.16.0
 SQLAlchemy==2.0.15
 stack-data==0.6.2
